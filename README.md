@@ -27,8 +27,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emalkumarasiri&show_icons=true&theme=radical" alt="Emal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalkumarasiri&layout=compact&theme=radical" alt="Top Languages" />
-</p>
