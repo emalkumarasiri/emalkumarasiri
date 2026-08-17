@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Emal Kumarasiri</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Emal+Kumarasiri;BICT+Hons+Undergraduate;Python+%7C+C%2B%2B+%7C+Web+Dev;Music+Production+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">BICT Hons Undergraduate | Python | C/C++ | Web Dev | Music Production Enthusiast</h3>
 
@@ -43,3 +45,10 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emalkumarasiri&show_icons=true&theme=radical" alt="Emal's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalkumarasiri&layout=compact&theme=radical" alt="Top Languages" />
+</p>
